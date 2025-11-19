@@ -1,7 +1,7 @@
 site_name: Documentación de Pruebas
 nav:
-  - Inicio: docs/index.md
-  - Guía: docs/guia.md
-  - Tutorial: docs/tutorial.md
+  - Inicio: index.md
+  - Guía: guia.md
+  - Tutorial: tutorial.md
 plugins:
-  - techdocs-core
+  techdocs-core
