@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: robercalvo
+  description: Grupo de ejemplo para pruebas
+spec:
+  type: team
+  children: []
