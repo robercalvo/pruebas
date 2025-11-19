@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pruebas
+  description: Documentación técnica de ejemplo para pruebas
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/robercalvo/pruebas/blob/main/docs
+spec:
+  type: documentation
+  owner: robercalvo
+  lifecycle: experimental
+
