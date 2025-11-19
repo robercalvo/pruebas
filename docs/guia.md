@@ -12,5 +12,3 @@ Este es un ejemplo de documentación técnica para el proyecto \*\*pruebas\*\*.
 
 \- \[Tutorial](tutorial.md)
 
-
-
