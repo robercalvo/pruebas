@@ -4,4 +4,4 @@ nav:
   - Guía: guia.md
   - Tutorial: tutorial.md
 plugins:
-  techdocs-core
+  - techdocs-core
